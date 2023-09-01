@@ -23,7 +23,7 @@ public class Ex01 {
 		}else {
 			System.out.println("Intervalo inválido!");
 		}
-		
+		leia.close();
 	}
 
 }

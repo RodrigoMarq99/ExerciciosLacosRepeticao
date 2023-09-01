@@ -24,7 +24,7 @@ public class Ex06 {
 		} else {
 			System.out.printf("Não foram inseridos números válidos!");
 		}
-
+		leia.close();
 	}
-
+	
 }

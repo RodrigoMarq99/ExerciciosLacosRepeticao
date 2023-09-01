@@ -17,6 +17,8 @@ public class Ex05 {
 			}
 		} while (num != 0);
 		System.out.println("A soma dos números positivos é: " + soma);
+		
+		leia.close();
 	}
 
 }

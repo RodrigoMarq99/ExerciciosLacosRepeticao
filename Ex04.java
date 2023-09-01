@@ -66,5 +66,7 @@ public class Ex04 {
 		System.out.println("Total de mulheres desenvolvedoras Frontend: " + mf);
 		System.out.println("Total de homens desenvolvedores Mobile maiores de 40 anos: " + hm);
 		System.out.println("Total de mulheres desenvolvedoras FullStack menores de 30 anos: " + mft);
+		
+		ler.close();
 }
 }

@@ -25,6 +25,8 @@ public class Ex03 {
 		}
 		System.out.println("\nTotal de pessoas menores de 21 anos: " + pessoasMenor);
 		System.out.println("Total de pessoas maiores de 50 anos: " + pessoasMaior);
+		
+		leia.close();
 	}
 
 }
